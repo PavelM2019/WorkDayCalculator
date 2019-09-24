@@ -8,12 +8,13 @@ namespace CSharpTest
 {
     public static class WorkDayCalculator 
     {
+        //we only need a class method
         public static DateTime Calculate(DateTime startDate, int dayCount, params WeekEnd[] Weekend)
         {
             DateTime EndDate = startDate;
             for (int i =1; i <= dayCount-1; i++)
             {
-
+                //no weekends
                 if (Weekend != null)
                 {
                     foreach (var item in Weekend)

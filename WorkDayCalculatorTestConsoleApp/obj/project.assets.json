@@ -709,11 +709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\TestTask Template\\WorkDayCalculatorTestConsoleApp\\WorkDayCalculatorTestConsoleApp.csproj",
+      "projectUniqueName": "C:\\Projects\\Project3\\WorkDayCalculator\\WorkDayCalculatorTestConsoleApp\\WorkDayCalculatorTestConsoleApp.csproj",
       "projectName": "WorkDayCalculatorTestConsoleApp",
-      "projectPath": "C:\\Projects\\TestTask Template\\WorkDayCalculatorTestConsoleApp\\WorkDayCalculatorTestConsoleApp.csproj",
+      "projectPath": "C:\\Projects\\Project3\\WorkDayCalculator\\WorkDayCalculatorTestConsoleApp\\WorkDayCalculatorTestConsoleApp.csproj",
       "packagesPath": "C:\\Users\\IDDQD\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\TestTask Template\\WorkDayCalculatorTestConsoleApp\\obj\\",
+      "outputPath": "C:\\Projects\\Project3\\WorkDayCalculator\\WorkDayCalculatorTestConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -732,8 +732,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Projects\\TestTask Template\\CSharpTest\\CSharpTest.csproj": {
-              "projectPath": "C:\\Projects\\TestTask Template\\CSharpTest\\CSharpTest.csproj"
+            "C:\\Projects\\Project3\\WorkDayCalculator\\CSharpTest\\CSharpTest.csproj": {
+              "projectPath": "C:\\Projects\\Project3\\WorkDayCalculator\\CSharpTest\\CSharpTest.csproj"
             }
           }
         }

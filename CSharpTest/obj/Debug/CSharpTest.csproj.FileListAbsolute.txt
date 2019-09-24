@@ -6,3 +6,11 @@ C:\Projects\TestTask Template\CSharpTest\obj\Debug\CSharpTest.csproj.CoreCompile
 C:\Projects\TestTask Template\CSharpTest\obj\Debug\CSharpTest.csproj.CopyComplete
 C:\Projects\TestTask Template\CSharpTest\obj\Debug\CSharpTest.dll
 C:\Projects\TestTask Template\CSharpTest\obj\Debug\CSharpTest.pdb
+C:\Projects\Project3\WorkDayCalculator\CSharpTest\bin\Debug\CSharpTest.dll
+C:\Projects\Project3\WorkDayCalculator\CSharpTest\bin\Debug\CSharpTest.pdb
+C:\Projects\Project3\WorkDayCalculator\CSharpTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Project3\WorkDayCalculator\CSharpTest\obj\Debug\CSharpTest.csprojAssemblyReference.cache
+C:\Projects\Project3\WorkDayCalculator\CSharpTest\obj\Debug\CSharpTest.csproj.CoreCompileInputs.cache
+C:\Projects\Project3\WorkDayCalculator\CSharpTest\obj\Debug\CSharpTest.csproj.CopyComplete
+C:\Projects\Project3\WorkDayCalculator\CSharpTest\obj\Debug\CSharpTest.dll
+C:\Projects\Project3\WorkDayCalculator\CSharpTest\obj\Debug\CSharpTest.pdb

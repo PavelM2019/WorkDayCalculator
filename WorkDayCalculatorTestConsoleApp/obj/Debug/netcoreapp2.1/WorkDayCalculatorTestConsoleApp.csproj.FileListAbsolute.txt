@@ -13,3 +13,18 @@ C:\Projects\TestTask Template\WorkDayCalculatorTestConsoleApp\bin\Debug\netcorea
 C:\Projects\TestTask Template\WorkDayCalculatorTestConsoleApp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Projects\TestTask Template\WorkDayCalculatorTestConsoleApp\bin\Debug\netcoreapp2.1\CSharpTest.pdb
 C:\Projects\TestTask Template\WorkDayCalculatorTestConsoleApp\obj\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.csproj.CopyComplete
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\bin\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.deps.json
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\bin\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.runtimeconfig.json
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\bin\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.runtimeconfig.dev.json
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\bin\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.dll
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\bin\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.pdb
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\bin\Debug\netcoreapp2.1\CSharpTest.dll
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\bin\Debug\netcoreapp2.1\CSharpTest.pdb
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\obj\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.csprojAssemblyReference.cache
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\obj\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\obj\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.AssemblyInfoInputs.cache
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\obj\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.AssemblyInfo.cs
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\obj\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.csproj.CopyComplete
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\obj\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.dll
+C:\Projects\Project3\WorkDayCalculator\WorkDayCalculatorTestConsoleApp\obj\Debug\netcoreapp2.1\WorkDayCalculatorTestConsoleApp.pdb
