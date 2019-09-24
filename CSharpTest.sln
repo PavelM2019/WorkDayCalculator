@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTest", "CSharpTest\CSharpTest.csproj", "{8BD6B370-0671-4085-A055-7CFAE54D2466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkDayCalculatorTestConsoleApp", "WorkDayCalculatorTestConsoleApp\WorkDayCalculatorTestConsoleApp.csproj", "{B046A855-FDA5-410E-80BF-1E7BDD3D167D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkDayCalculatorTestConsoleApp", "WorkDayCalculatorTestConsoleApp\WorkDayCalculatorTestConsoleApp.csproj", "{B046A855-FDA5-410E-80BF-1E7BDD3D167D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
