@@ -11,6 +11,19 @@ namespace CSharpTest
         //we only need a class method
         public static DateTime Calculate(DateTime startDate, int dayCount, params WeekEnd[] Weekend)
         {
+            if (Weekend != null)
+            {
+                //change the start date if it's on the weekend
+                foreach (var item in Weekend)
+                {
+                    if (startDate >= item.StartDate && startDate <= item.EndDate)
+                    {
+                        startDate = item.EndDate.AddDays(1);
+                    }
+
+                }
+            }
+            
             DateTime EndDate = startDate;
             for (int i =1; i <= dayCount-1; i++)
             {
@@ -19,11 +32,10 @@ namespace CSharpTest
                 {
                     foreach (var item in Weekend)
                     {
-                        if (EndDate.AddDays(1) >= item.StartDate && EndDate <= item.EndDate)
+                        if (EndDate.AddDays(1) >= item.StartDate && EndDate.AddDays(1) <= item.EndDate)
                         {
                             EndDate = item.EndDate;
-                            break;
-                        }
+                        } 
                     }
                 }
                 EndDate = EndDate.AddDays(1);            

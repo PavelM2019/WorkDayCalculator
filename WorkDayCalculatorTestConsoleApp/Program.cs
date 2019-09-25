@@ -18,6 +18,7 @@ namespace WorkDayCalculatorTestConsoleApp
             var EndDate = WorkDayCalculator.Calculate(new DateTime(2017, 4, 21), 5, Weekend);
             Console.WriteLine(EndDate);
             Console.ReadKey();
+
         }
     }
 }
